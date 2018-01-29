@@ -1,4 +1,4 @@
 # iOS-App-Icon-Template
 iOS App Icon Template (.ai)
 
-![](/capture.jpg)
+![](/iOS-App-Icon-Template.Capture.jpg)
